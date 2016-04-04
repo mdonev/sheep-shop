@@ -15,7 +15,7 @@ Dynamic model class herd.cs with calculations for :
 -added validation for shave eligability and dying
 
 
-ApiController herdController giving services (http://domain:port/sheep-shop/herd)
+Api Controller herdController giving services (http://domain:port/sheep-shop/herd)
 
 
 --------------------------------------------------
