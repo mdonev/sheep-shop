@@ -26,7 +26,7 @@ Possible solution for User-Stories Sheep-1:
 1.Formating xml with XmlSerializer using property attributes : XmlRoot, XmlElement, XmlAttribute... and
 saving to xml file with  void save(){code..}
 2.property integer T with calculations - Sum() of totalMilk, Sum() of skinWool
-
+--------------------------------------------------
 
 Possible solution for User-Stories Sheep-2:
 
@@ -34,12 +34,15 @@ Possible solution for User-Stories Sheep-2:
 -herdController and stockController returning JSON
 -making some kind of archive which day(T) how many milk and skins were available
 
+--------------------------------------------------
+
 Possible solution for User-Stories Sheep-3:
 
 -order class with id,customer and order properties
 
 -order controller with validation for milk and skins
 
+--------------------------------------------------
 
 Possible solution for User-Stories Bonus:
 
