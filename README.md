@@ -35,8 +35,12 @@ Possible solution for User-Stories Sheep-2:
 -making some kind of archive which day(T) how many milk and skins were available
 
 Possible solution for User-Stories Sheep-3:
+
 -order class with id,customer and order properties
+
 -order controller with validation for milk and skins
 
+
 Possible solution for User-Stories Bonus:
+
 -shoping cart taking results from services and passing directly to Basket using AngularJS or KnockoutJS
