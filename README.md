@@ -18,7 +18,7 @@ Dynamic model class herd.cs with calculations for :
 ApiController herdController giving services (http://domain:port/sheep-shop/herd)
 
 
-
+--------------------------------------------------
 
 
 Possible solution for User-Stories Sheep-1:
