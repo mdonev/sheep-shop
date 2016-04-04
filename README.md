@@ -26,6 +26,7 @@ Possible solution for User-Stories Sheep-1:
 1.Formating xml with XmlSerializer using property attributes : XmlRoot, XmlElement, XmlAttribute... and
 saving to xml file with  void save(){code..}
 
+
 2.property integer T with calculations - Sum() of totalMilk, Sum() of skinWool
 
 --------------------------------------------------
