@@ -3,13 +3,20 @@
 Controller HerdsController with Views for listing and creating sheep name and born date (http://domain:port/herds/index)
 
 Dynamic model class herd.cs with calculations for :
+
 -age in standard sheep years 
+
 -avg milk per day for every sheep
+
 -total milk per sheep starting from day 0
+
 -total skins of wool per sheep starting from day 0
+
 -added validation for shave eligability and dying
 
+
 ApiController herdController giving services (http://domain:port/sheep-shop/herd)
+
 
 
 
